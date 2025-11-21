@@ -1,0 +1,7 @@
+{
+  "name": "GeoIP & Location Tracker",
+  "description": "A utility app to display your precise GPS coordinates, IP address location, and ISP details using Gemini Intelligence for location context.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
